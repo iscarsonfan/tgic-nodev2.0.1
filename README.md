@@ -5,7 +5,7 @@
 这TGIC网络2.0是节点部署文件
 推荐  2cpu 4ram 40g硬盘 1M带宽  linux ubuntu 16.04 64bit
 
-TGIC QQ总群的群文件里有视频教程，若有需要的可以加群下载视频教程：252744072（QQ群号）
+TGIC QQ总群的群文件里有视频教程，若有需要的可以视频教程：https://v.qq.com/x/page/r0813ouwcy6.html
 
 安装：
 
