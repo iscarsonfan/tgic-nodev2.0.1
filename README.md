@@ -70,7 +70,7 @@ cd tgic-nodev2.0.1
 ```
 
 现在您需要修改配置文件了
-找到config.Tgic.json这个文件，在第68行的代码 "secret": [""],增加您的密钥
+找到config.T121gic.json这个文件，在第68行的代码 "secret": [""],增加您的密钥
 
 ```
   "forging": {
@@ -84,7 +84,7 @@ cd tgic-nodev2.0.1
     }
   },
 ```
-完成后，再次修改config.Tgic.json！
+完成后，再次修改config.T121gic.json！
 ```
  "db": {
     "host": "localhost",
