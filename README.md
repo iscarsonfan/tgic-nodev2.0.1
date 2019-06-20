@@ -114,7 +114,7 @@ npm install
 完成后，就可以直接运行了！
 
 ```
-node app.js --genesis genesisBlock.Tgic.json --config config.Tgic.json
+node app.js --genesis genesisBlock.Tgic.json --config config.T121gic.json
 ```
 LINUX断开shh链接后节点就自动关闭了运行了
 我们需要使用screen 来执行最后一步的操作，因为这样可以让你关掉SHH连接后，节点程序依旧在运行中。
